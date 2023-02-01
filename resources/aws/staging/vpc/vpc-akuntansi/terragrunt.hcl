@@ -8,5 +8,5 @@ include {
 
 inputs = {
     cidr_block = "172.0.0.0/16"
-    cidr_block_subnet = "172.0.1.0/26"
+    cidr_block_subnet = "172.0.1.0/24"
 }
